@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+/* header a {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} */
+
+/* body {
+  <link href="https://fonts.googleapis.com/css?family=Beth+Ellen&display=swap" rel="stylesheet">
+} */
+
+/* <style>
+@import url('https://fonts.googleapis.com/css?family=Beth+Ellen&display=swap');
+</style> */
+
+body {
+  font-family: 'Beth Ellen', cursive;
+  background-color: gainsboro;
+  flex: right;
+}
